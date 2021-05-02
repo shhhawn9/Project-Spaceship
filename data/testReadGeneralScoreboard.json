@@ -1,0 +1,17 @@
+{
+  "Scores": [
+    {
+      "Score": 5000,
+      "Name": "Ary"
+    },
+    {
+      "Score": 10000,
+      "Name": "Bry"
+    },
+    {
+      "Score": 15000,
+      "Name": "Cry"
+    }
+  ],
+  "Name": "Scoreboard 1.0"
+}

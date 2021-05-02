@@ -1,0 +1,17 @@
+{
+    "Scores": [
+        {
+            "Score": 100,
+            "Name": "Deep"
+        },
+        {
+            "Score": 200,
+            "Name": "Dark"
+        },
+        {
+            "Score": 300,
+            "Name": "Fantasy"
+        }
+    ],
+    "Name": "Scoreboard 1.0"
+}
